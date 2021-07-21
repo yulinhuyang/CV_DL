@@ -84,4 +84,19 @@ loss计算：
 		
 	利用2D的anchor 和target的信息 ，筛选出3D对应的layer的target。这样可以就将3D的GT 分配到了layer上
 	
-    
+ 
+ 一欧元滤波： 
+ 
+	稳定性问题：
+
+	1E 滤波
+
+	https://jaantollander.com/post/noise-filtering-using-one-euro-filter/
+
+	https://github.com/jaantollander/OneEuroFilter 
+
+	低通滤波器：平衡低速的抖动和滞后 
+ 
+ 
+ 
+ 
