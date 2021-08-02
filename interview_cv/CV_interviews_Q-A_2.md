@@ -7,4 +7,6 @@
 变量不能使用tensor , 要使用parameter
 
 
+parameter、Variable、tensor 区别
 
+https://blog.csdn.net/u014244487/article/details/104372441
